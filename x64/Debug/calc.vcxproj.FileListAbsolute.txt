@@ -1,0 +1,5 @@
+D:\study\forcpp\informatics\yaziki_i_metodi\git_labs\calc\x64\Debug\calc.vcxproj.AssemblyReference.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\git_labs\calc\x64\Debug\calc.vcxproj.SuggestedBindingRedirects.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\git_labs\calc\x64\Debug\calc.MyForm.resources
+D:\study\forcpp\informatics\yaziki_i_metodi\git_labs\calc\x64\Debug\calc.vcxproj.GenerateResource.cache
+D:\study\forcpp\informatics\yaziki_i_metodi\git_labs\calc\x64\Debug\calc.exe
